@@ -2,7 +2,7 @@ plumbum==1.6.2
 requests==2.11.1
 invoke==0.13.0
 numpy==1.11.1
-PyYAML==3.12
+PyYAML==5.1
 flake8==3.0.4
 autopep8==1.2.4
 boto3==1.4.0
